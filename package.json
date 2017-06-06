@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-ios-keychain",
+  "version": "2.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mutkanx/cordova-plugin-ios-keychain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutkanx/cordova-plugin-ios-keychain/issues"
+  },
+  "homepage": "https://github.com/mutkanx/cordova-plugin-ios-keychain#readme"
+}
